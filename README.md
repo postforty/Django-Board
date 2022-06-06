@@ -1,5 +1,4 @@
-# Django Project
-## Simple Board
+# Django ProjectSimple Board
 + 네비게이션바
 + 페이징
 + 템플릿 필터
