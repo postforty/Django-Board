@@ -1,4 +1,4 @@
-# Django Project_Simple Board
+# 게시판(Django Project)
 
 + 구현 기능
   + 네비게이션바
