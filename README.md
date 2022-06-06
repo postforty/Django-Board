@@ -1,4 +1,5 @@
-# Django ProjectSimple Board
+# Django Project_Simple Board
+
 + 구현 기능
   + 네비게이션바
   + 페이징
