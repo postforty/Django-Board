@@ -1,6 +1,6 @@
-# 게시판(Django Project)
+## 게시판(Django Project)
 
-+ 구현 기능
++ 구현
   + 네비게이션바
   + 페이징
   + 템플릿 필터
