@@ -1,6 +1,7 @@
-## 게시판(Django Project)
+## 게시판 제작 실습(Django 활용)
 
-+ 구현
++ 목적: Python, Django Framework를 이용한 Back End 게시판 제작
++ 구현 내용
   + 네비게이션바
   + 페이징
   + 템플릿 필터
